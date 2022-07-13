@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Home" android:icon="@drawable/homeimg" android:id="@+id/home"/>
+    <item android:title="Ebook" android:id="@+id/book" android:icon="@drawable/book"/>
+    <item android:title="Video Lectures" android:icon="@drawable/video" android:id="@+id/video"/>
+    <item android:title="Website" android:icon="@drawable/website" android:id="@+id/website"/>
+    <item android:title="About" android:icon="@drawable/about" android:id="@+id/about"/>
+    <item android:title="Share" android:icon="@drawable/ic_baseline_share_24" android:id="@+id/share"/>
+    <item android:title="Exit" android:icon="@drawable/exit" android:id="@+id/exit"/>
+</menu>
